@@ -1,0 +1,13 @@
+#include<curlpp/cURLpp.hpp>
+#include<curlpp/Options.hpp>
+#include<curlpp/Exception.hpp>
+#include<curlpp/Easy.hpp>
+#include<unistd.h>
+#include<fstream>
+#include<iostream>
+#include<vector>
+#include<list>
+#include<sstream>
+#include<string>
+#include<future>
+#include<chrono>
