@@ -1,9 +1,7 @@
 struct processUsage
 {
-	int PID;
-	std::string TTY;
-	std::string TIME;
-	std::string CMD;
+	float ram_usage;
+	std::string name;
 };
 class loggerObject
 {
@@ -11,7 +9,7 @@ class loggerObject
 	int num_processes;
 	public:
 	float cpu_use_percentage;
-	unsigned long mem_used;
+	//unsigned long mem_used;
 	processUsage p_array[10];
 	void GetCpuUsage()
 	{
@@ -34,6 +32,7 @@ class loggerObject
 	my_file.close();
 	
 	}
+	/* 
 	void GetUsedRam()
 	{
 		std::ifstream my_file;
@@ -52,10 +51,10 @@ class loggerObject
 	my_file.close();
 	mem_used = mem_tot-mem_free;
 	
-	}
+	}*/
 	void GetMaxMemProcesses()
 	{
-		FILE *RAM_processes = popen("ps -A --sort -rss | sed -n 2,11p","r");
+	FILE *RAM_processes = popen("ps -a -o %mem,args --sort -rss | sed -n 2,11p","r");
 	char *buf = new char[101];
 	size_t buf_size = 100;
 	num_processes=0;
@@ -63,10 +62,8 @@ class loggerObject
 	{
 		std::string placeholderstring(buf);
 	 	std::istringstream iss(placeholderstring);
-		iss>>p_array[num_processes].PID
-		>>p_array[num_processes].TTY
-		>>p_array[num_processes].TIME
-		>>p_array[num_processes].CMD;
+		iss>>p_array[num_processes].ram_usage
+		>>p_array[num_processes].name;
 		num_processes++;
 	}
 	
@@ -75,10 +72,10 @@ class loggerObject
 	void Output()
 	{
 			std::cout<<cpu_use_percentage<<"\n";
-			std::cout<<mem_used<<"KiB"<<std::endl;
+			//std::cout<<mem_used<<"KiB"<<std::endl;
 			for(int j =0;j<num_processes;j++)
 	{
-		std::cout<<p_array[j].CMD<<"\n";
+		std::cout<<p_array[j].ram_usage<<"\t"<<p_array[j].name<<"\n";
 	}
 	}
 };
