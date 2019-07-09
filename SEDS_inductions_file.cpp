@@ -62,29 +62,33 @@ void sendPost(std::string website_url)
 
 	else
 	{
-	 	size = logfile.tellg(); //find the size of the logfile
-	 	logfile.close();
+	 	size = logfile.tellg(); //find the size of the logfile, without trailing eof	
+		logfile.close();
 	 	logfile.open("./logger.json",std::ios::binary);
 	 	buf = new char[size];
 	 	logfile.read(buf,size);
-		buf[size-1] = '\0';
-	 	logfile.close();
+		//buf[size-1] = '\0';
+		/*
+		std::ofstream log2file("./logger3.json",std::ios::binary);
+		log2file.write(buf,size);
+		log2file.close();
+	 	*/
+		logfile.close();
 	}
 	try{
 		cURLpp::initialize(CURL_GLOBAL_ALL);
 		curlpp::Easy post_json;
 		std::list<std::string> header;
-    	header.push_back("Content-Type: application/json");
+    		header.push_back("Content-Type: application/json");
 
-		//std::cout<<buf<<std::endl;
 		post_json.setOpt(cURLpp::Options::Url(url));
 		//http://jsonplaceholder.typicode.com/posts
-		//
-
+		
 		post_json.setOpt(new cURLpp::Options::HttpHeader(header));
 		post_json.setOpt(new curlpp::options::PostFields(buf));
 		post_json.setOpt(new curlpp::Options::WriteStream(&std::cout));
 		post_json.perform();
+		//std::cout<<buf<<std::endl;
 		long http_code = curlpp::infos::ResponseCode::get(post_json);
 		if(http_code == 200)
 		{
@@ -120,8 +124,18 @@ void jsonify(loggerObject data_logger[10],std::string append_name)
 	}
 	std::ofstream logfile("logger.json",std::ios::out);
 	
+	Json::StreamWriterBuilder builder;
+	std::unique_ptr<Json::StreamWriter> writer(builder.newStreamWriter());
+	writer->write(val, &logfile);
+	std::cout << std::endl;
+	
+	/*
+	std::ofstream logfile2("logger2.json");	
 	Json::StyledStreamWriter s;
-	s.write(logfile,val);
+	s.write(logfile2,val);
+	logfile2.close();
+	*/
+
 	logfile.close();
 }
 int main(int argc, char **argv)

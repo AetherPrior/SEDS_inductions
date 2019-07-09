@@ -2,465 +2,465 @@
 	"data_points" : 
 	[
 		{
-			"cpu_usage" : 6.3948135375976562,
+			"cpu_usage" : 21.192909240722656,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4183120727539062,
+			"cpu_usage" : 21.211135864257812,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4171371459960938,
+			"cpu_usage" : 21.209068298339844,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4156417846679688,
+			"cpu_usage" : 21.207038879394531,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4144821166992188,
+			"cpu_usage" : 21.205032348632812,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4121170043945312,
+			"cpu_usage" : 21.203018188476562,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4102554321289062,
+			"cpu_usage" : 21.20098876953125,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4061965942382812,
+			"cpu_usage" : 21.198959350585938,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.4022140502929688,
+			"cpu_usage" : 21.196990966796875,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		},
 		{
-			"cpu_usage" : 6.3985977172851562,
+			"cpu_usage" : 21.1949462890625,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.0999999046325684
+					"ram_usage" : 6.0999999046325684
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 3.2999999523162842
+				},
+				{
+					"name" : "/usr/bin/gnome-shell",
+					"ram_usage" : 3.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
 					"ram_usage" : 2.2000000476837158
 				},
 				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 1.8999999761581421
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
+				},
+				{
+					"name" : "/usr/lib/chromium-browser/chromium-browser",
+					"ram_usage" : 2.0
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
-					"ram_usage" : 1.3999999761581421
-				},
-				{
-					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 0.89999997615814209
+					"ram_usage" : 1.5
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.2999999523162842
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.80000001192092896
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 0.69999998807907104
-				},
-				{
-					"name" : "/usr/lib/tracker/tracker-miner-fs",
-					"ram_usage" : 0.69999998807907104
+					"ram_usage" : 1.0
 				}
 			]
 		}
 	],
-	"name" : "b"
+	"name" : "test"
 }
