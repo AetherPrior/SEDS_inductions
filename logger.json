@@ -2,20 +2,20 @@
 	"data_points" : 
 	[
 		{
-			"cpu_usage" : 21.192909240722656,
+			"cpu_usage" : 20.401748657226562,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -23,19 +23,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -48,20 +48,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.211135864257812,
+			"cpu_usage" : 20.415252685546875,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -69,19 +69,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -94,20 +94,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.209068298339844,
+			"cpu_usage" : 20.413780212402344,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -115,19 +115,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -140,20 +140,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.207038879394531,
+			"cpu_usage" : 20.412269592285156,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -161,19 +161,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -186,20 +186,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.205032348632812,
+			"cpu_usage" : 20.410797119140625,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -207,19 +207,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -232,20 +232,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.203018188476562,
+			"cpu_usage" : 20.409332275390625,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -253,19 +253,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -278,20 +278,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.20098876953125,
+			"cpu_usage" : 20.407806396484375,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -299,19 +299,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -324,20 +324,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.198959350585938,
+			"cpu_usage" : 20.406288146972656,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -345,19 +345,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -370,20 +370,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.196990966796875,
+			"cpu_usage" : 20.40478515625,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -391,19 +391,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -416,20 +416,20 @@
 			]
 		},
 		{
-			"cpu_usage" : 21.1949462890625,
+			"cpu_usage" : 20.403266906738281,
 			"processes" : 
 			[
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 6.0999999046325684
+					"ram_usage" : 6.1999998092651367
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 4.4000000953674316
 				},
 				{
 					"name" : "/usr/bin/gnome-shell",
-					"ram_usage" : 3.2999999523162842
+					"ram_usage" : 3.5999999046325684
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -437,19 +437,19 @@
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
-				},
-				{
-					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 2.0
+					"ram_usage" : 1.8999999761581421
 				},
 				{
 					"name" : "/usr/bin/gnome-software",
 					"ram_usage" : 1.5
 				},
 				{
+					"name" : "/usr/bin/valgrind.bin",
+					"ram_usage" : 1.5
+				},
+				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
-					"ram_usage" : 1.2999999523162842
+					"ram_usage" : 1.1000000238418579
 				},
 				{
 					"name" : "/usr/lib/chromium-browser/chromium-browser",
@@ -462,5 +462,5 @@
 			]
 		}
 	],
-	"name" : "test"
+	"name" : "fgjsjkff"
 }

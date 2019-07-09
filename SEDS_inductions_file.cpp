@@ -48,16 +48,14 @@ int makeGetRequest(std::string website_url,std::string usr_string)
 }
 void sendPost(std::string website_url)
 {
-	const char *url = website_url.c_str();
-	std::cout<<url<<std::endl;
 	std::ifstream logfile("./logger.json",std::ios::ate|std::ios::binary);
 	unsigned int size;
-	char *buf;
 
 	if(!logger)
 	{
 		std::cerr<<"Unable to open file\n";
 		logfile.close();
+		return ;
 	}
 
 	else
@@ -65,7 +63,7 @@ void sendPost(std::string website_url)
 	 	size = logfile.tellg(); //find the size of the logfile, without trailing eof	
 		logfile.close();
 	 	logfile.open("./logger.json",std::ios::binary);
-	 	buf = new char[size];
+	 	char buf[size];
 	 	logfile.read(buf,size);
 		//buf[size-1] = '\0';
 		/*
@@ -74,18 +72,19 @@ void sendPost(std::string website_url)
 		log2file.close();
 	 	*/
 		logfile.close();
-	}
+	
 	try{
 		cURLpp::initialize(CURL_GLOBAL_ALL);
 		curlpp::Easy post_json;
 		std::list<std::string> header;
     		header.push_back("Content-Type: application/json");
 
-		post_json.setOpt(cURLpp::Options::Url(url));
+		post_json.setOpt(cURLpp::Options::Url(website_url.c_str()));
 		//http://jsonplaceholder.typicode.com/posts
 		
 		post_json.setOpt(new cURLpp::Options::HttpHeader(header));
 		post_json.setOpt(new curlpp::options::PostFields(buf));
+		post_json.setOpt(new curlpp::options::PostFieldSize(size));
 		post_json.setOpt(new curlpp::Options::WriteStream(&std::cout));
 		post_json.perform();
 		//std::cout<<buf<<std::endl;
@@ -106,6 +105,7 @@ void sendPost(std::string website_url)
 	catch(curlpp::RuntimeError r)
 	{
 		std::cerr<<std::endl<<r.what()<<std::endl;
+	}
 	}
 }
 

@@ -68,6 +68,7 @@ class loggerObject
 		}
 	
 		fclose(RAM_processes);
+		delete[] buf;
 	}
 	void Output()
 	{
